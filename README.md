@@ -1,10 +1,10 @@
-✨ ARES: Discord Özel Sunucularına Özel Gelişmiş Koruma Sistemi ✨
+✨ Kaio: Discord Özel Sunucularına Özel Gelişmiş Koruma Sistemi ✨
 Discord'un özel sunucuları (priv) için, PM2 ile yönetilen ve 7/24 kesintisiz hizmet veren özel bir bot paketi sunmaktan gurur duyuyoruz. Bu paket, sunucunuzu hem profesyonel bir şekilde yönetmenizi hem de en üst düzeyde korumanızı sağlar.
 
 🛡️ Proje Hakkında
 Discord sunucunuzun güvenliği ve düzeni artık çok daha kolay. Bu bot paketi, piyasadaki standart botların ötesine geçerek, eşsiz guard sistemleri ve gelişmiş komutlarla sunucunuzu adeta bir kale gibi korur. Bu gücü keşfetmeye hazır olun!
 
-Eğer kurulum sırasında herhangi bir sorunla karşılaşırsanız veya hata alırsanız, Discord üzerinden bana [areshizm](https://discord.com/users/544120552596701226) ulaşabilirsiniz. İlginiz için teşekkür ederiz!
+Eğer kurulum sırasında herhangi bir sorunla karşılaşırsanız veya hata alırsanız, Discord üzerinden bana [areshizm](https://discord.com/users/292111586276016138) ulaşabilirsiniz. İlginiz için teşekkür ederiz!
 
 💎 Temel Özellikler
 48+ Gelişmiş Moderasyon Komutu: Sunucunuzun düzenini sağlamak için ihtiyacınız olan her şey.
